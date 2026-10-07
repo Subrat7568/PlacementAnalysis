@@ -1,4 +1,5 @@
 # College Placement Data Analysis
+# Live demo:https://studentplacementanalysis.netlify.app/
 
 A data-analyst case study on a college placement dataset (9,000 students):
 data quality audit → cleaning → exploratory analysis → an interactive
