@@ -48,7 +48,7 @@ Pages can serve it directly. After pushing, enable Pages in the repo's
 **Settings → Pages → Source: main branch, / (root)**, and the dashboard will be
 live at:
 ```
-https://<your-username>.github.io/<repo-name>/
+https://studentplacementanalysis.netlify.app/
 ```
 
 ## Preview
